@@ -1,6 +1,6 @@
 /**
  * Created on : 29/12/2021
- * Author     : Yoann Meclot (Msay2)
+ * Author     : Yoann Meclot (DevMyBits)
  * Email      : yoannmeclot@hotmail.com
  */
 public final class SQLRequest
