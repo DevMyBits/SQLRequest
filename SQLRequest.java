@@ -1,7 +1,7 @@
 /**
  * Created on : 29/12/2021
  * Author     : Yoann Meclot (DevMyBits)
- * Email      : yoannmeclot@hotmail.com
+ * Email      : devmybits@gmail.com
  */
 public final class SQLRequest
 {
